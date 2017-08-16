@@ -28,3 +28,18 @@ Alternative:[_All in One SEO_](https://wordpress.org/plugins/all-in-one-seo-pack
     * Pro: [WPSSO (Core Plugin)](http://wpsso.com/extend/plugins/wpsso/)
     * [Performance Tuning](https://wpsso.com/docs/plugins/wpsso/installation/performance-tuning/)
 
+
+### Performance
+
+* [**Disable XML-RPC**](https://wordpress.org/plugins/disable-xml-rpc/)
+The XMLRPC allows remote connection to WordPress. For the most part, XMLRPC is only truly useful if you’re planning to use mobile apps or remote connections to publish content on your website.
+By disabling this feature, you eliminate the risk of external attacks gaining access.
+
+
+* [**Heartbeat Control**](https://wordpress.org/plugins/heartbeat-control/)
+WordPress 3.6 introduced the WordPress Heartbeat API - it allows your browser to communicate with the server when you're logged into the WordPress admin panel. However, even though this is great functionality it may cause issues in certain cases.
+Usually, you can completely disable it if you're the only person working at any given time in your site and you know that you don't have any important functionality that heavily relies on it to work properly.
+Override heartbeat frequency: _6o seconds_.
+Control heartbeat locations: _Disable everywhere_.
+
+
