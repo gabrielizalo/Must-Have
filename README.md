@@ -3,6 +3,6 @@
 All the tools that MUST HAVE in my projects
 
 
-## [Wordpress](Wordpress/MustHave.md)
+## [**Wordpress Must Have**](Wordpress/MustHave.md)
 
 Must have plugins and configuration.

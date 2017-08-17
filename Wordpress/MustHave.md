@@ -43,3 +43,16 @@ Override heartbeat frequency: _6o seconds_.
 Control heartbeat locations: _Disable everywhere_.
 
 
+### Security
+
+* [**Disable REST API**](https://wordpress.org/plugins/disable-json-api/)
+As of WordPress 4.7, the filter provided for disabling the REST API has been removed. However, this plugin will nowforcibly return an authentication error to any API requests from sources who are not logged into your website, which will effectively still prevent unauthorized requests from using the REST API to get information from your website.
+
+
+
+## Other
+
+
+* [**Use KeyCDN**](http://bit.ly/AX-CDN)
+    * Enable [HTTP/2](https://www.keycdn.com/support/http2/).
+    * Enable [Prefetching](https://www.keycdn.com/support/prefetching/).
