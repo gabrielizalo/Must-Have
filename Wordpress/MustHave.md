@@ -19,13 +19,13 @@
 
 ### SEO
 
-* [**Yoast SEO**](https://wordpress.org/plugins/wordpress-seo/):
+* [**Yoast SEO**](https://wordpress.org/plugins/wordpress-seo/)
 This plugin is written from the ground up by Joost de Valk and his team at [Yoast](https://yoast.com/) to improve your site's SEO on *all* needed aspects. While this [Yoast SEO plugin](https://yoast.com/wordpress/plugins/seo/) goes the extra mile to take care of all the technical optimization.
 [How to Install and Setup WordPress SEO Plugin by Yoast](http://www.wpbeginner.com/plugins/how-to-install-and-setup-wordpress-seo-plugin-by-yoast/)
 Alternative:[_All in One SEO_](https://wordpress.org/plugins/all-in-one-seo-pack/).
 
 
-* [**WPSSO**](https://wpsso.com):
+* [**WPSSO**](https://wpsso.com)
 **WPSSO uses your *existing* content to generate meta tags and Schema markup** --- there's no need to manually enter / configure any additional settings or values, *but if you want to* , you can customize just about anything and everything. ;-)
     * Free: [WPSSO (Core Plugin)](https://wordpress.org/plugins/wpsso/)
     * Pro: [WPSSO (Core Plugin)](http://wpsso.com/extend/plugins/wpsso/)
@@ -34,23 +34,10 @@ Alternative:[_All in One SEO_](https://wordpress.org/plugins/all-in-one-seo-pack
 
 ### Performance
 
-* [**Disable XML-RPC**](https://wordpress.org/plugins/disable-xml-rpc/)
-The XMLRPC allows remote connection to WordPress. For the most part, XMLRPC is only truly useful if you’re planning to use mobile apps or remote connections to publish content on your website.
-By disabling this feature, you eliminate the risk of external attacks gaining access.
-
-
-* [**Heartbeat Control**](https://wordpress.org/plugins/heartbeat-control/)
-WordPress 3.6 introduced the WordPress Heartbeat API - it allows your browser to communicate with the server when you're logged into the WordPress admin panel. However, even though this is great functionality it may cause issues in certain cases.
-Usually, you can completely disable it if you're the only person working at any given time in your site and you know that you don't have any important functionality that heavily relies on it to work properly.
-Override heartbeat frequency: _6o seconds_.
-Control heartbeat locations: _Disable everywhere_.
-
-
-### Security
-
-* [**Disable REST API**](https://wordpress.org/plugins/disable-json-api/)
-As of WordPress 4.7, the filter provided for disabling the REST API has been removed. However, this plugin will nowforcibly return an authentication error to any API requests from sources who are not logged into your website, which will effectively still prevent unauthorized requests from using the REST API to get information from your website.
-
+* [**WP Disable**](https://wordpress.org/plugins/wp-disable/) The
+Reduce HTTP requests – Disable Emojis, Disable Gravatars, Disable Embeds and Remove Querystrings. SpeedUp WooCommerce, Added support to disable pingbacks, disable trackbacks, close comments after 28 days, Added the ability to force pagingation after 20 posts,
+Disable WooCommerce scripts and CSS on non WooCommerce Pages, Disable RSS, Disable XML-RPC, Disable Autosave, Remove Windows Live Writer tag, Remove Shortlink Tag, Remove WP API from header and
+many more features to help speed and SEO gains. Now includes Disable Comments, Heartbeat Control, Selective Disable.
 
 
 ## Other
