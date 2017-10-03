@@ -53,6 +53,7 @@ Alternative:[_All in One SEO_](https://wordpress.org/plugins/all-in-one-seo-pack
 
 * [**SG Optimizer/SuperCacher SiteGround**](https://wordpress.org/plugins/sg-cachepress/)
 This plugin is designed to link WordPress with the [**SiteGround**](http://bit.ly/AX-SuperHosting ) Performance services. **It WILL NOT WORK on another hosting provider**.
+_Important:_ Verify that is working via CPanel and plugin config.
 
 
 * [**WP Disable**](https://wordpress.org/plugins/wp-disable/)
