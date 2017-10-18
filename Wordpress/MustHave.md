@@ -1,12 +1,53 @@
 # Wordpress Must Have
 
-## Setup
+## Setup - Off-site Tasks
 
-1. Set _PHP 7_
-2. _Pages_ > _Add New_ > Create basic pages: home, contact...
-3. _Appearance_ > Themes > Choose theme.
-4. _Settings_ > Setup all SubMenus.
-5. _Settings_ > _Writing_ > _Update Services_ > Copy & Paste the Ping Services from [WordpressPingList.md](WordpressPingList.md).
+Taken from:
+[**Launching a New Wordpress Site - Part 1**](http://www.hongkiat.com/blog/launching-new-wordpress-site-part-1/)
+
+1. [Register a domain](http://bit.ly/AX-Dominios)
+2. [Buy a hosting plan](http://bit.ly/AX-SuperHosting)
+3. Install WordPress.
+4. Install an SSL certificate.
+5. Create email accounts (1 from gmail + N from own domain).
+6. Set up an FTP connection
+7. Register your site with search engines including the 4 versions:
+   http://www.yoursite.com, http://yoursite.com,
+   https://www.yoursite.com, https://yoursite.com. Add all of them as
+   separate properties, finally set your preferred version according
+   [to these instructions](https://support.google.com/webmasters/answer/44231?hl=en).
+   If you use an SSL certificate select one of the HTTPS URLs.
+   1. [Google Webmaster Tools](https://www.google.com/webmasters/)
+   2. [Bing Webmaster Tools](https://www.bing.com/toolbox/webmaster)
+8. Set up a Google Analytics account
+9. Plan a reliable backup workflow (via CPanel or Plugin).
+10. Set _PHP 7_ in CPanel.
+
+
+
+## Setup - On-site Tasks
+
+Taken from:
+[**Launching a New Wordpress Site - Part 2**](http://www.hongkiat.com/blog/launching-new-wordpress-site-part-2/)
+
+1. [Install a security plugin](#Security)
+2. Configure your settings: Setup all SubMenus.
+   - _Settings_ > _Writing_ > _Update Services_ > Copy & Paste the Ping Services from [WordpressPingList.md](WordpressPingList.md).
+3. Create users
+4. [Install an SEO plugin](#SEO)
+5. Create your content: _Pages_ > _Add New_ > Create basic pages: home,
+   contact...
+6. [Add social buttons](#Social-Media) (share and follow buttons).
+7. Activate & customize [a theme](http://bit.ly/AX-Envato).
+8. [Connect your site to Google Analytics](#General-Purpose).
+9. [Install a caching plugin](#Performance)
+10. Setup the other below plugins. **Only install and enable truly
+    necessary plugins**.
+11. Test the site: Check all posts and pages, if you have a contact form
+    test if it properly works, try out the social buttons & all the
+    other features you have on your site.
+12. Setup a [Uptime Monitoring Service](https://www.statuscake.com).
+
 
 
 
@@ -33,11 +74,16 @@
   install your favicon in a few seconds.
 
 
+* [**GA Google Analytics**](httphttps://wordpress.org/plugins/ga-google-analytics/):
+  This plugin enables Google Analytics for your entire WordPress site.
+  Lightweight and fast with plenty of great features.
+
+
 * [**Imagify Image Optimizer**](https://wordpress.org/plugins/imagify/):
   Dramatically reduce image file sizes without losing quality, make your
   website load faster, boost your SEO and save money on your bandwidth
-  (From Us 5 per Month).
-  Alternative:[_Smush Image Compression and Optimization_](https://wordpress.org/plugins/wp-smushit/).
+  (From Us 5 per Month). Alternative:
+  [_Smush Image Compression and Optimization_](https://wordpress.org/plugins/wp-smushit/).
 
 
 
@@ -110,6 +156,12 @@
 * [**WP Rocket**](https://wp-rocket.me/): Make WordPress Load Fast in a
   Few Clicks. Recognized as the most powerful caching plugin by
   WordPress experts (Us 39 per Year).
+  [The Ideal WP Rocket Settings With Cloudflare + MaxCDN Instructions](http://www.onlinemediamasters.com/wp-rocket-settings-with-cloudflare-maxcdn/).
+  Alternatives:
+  [_WP Super Cache_](https://wordpress.org/plugins/wp-super-cache/)
+  (easier to set up) or
+  [_W3 Total Cache_](hhttps://wordpress.org/plugins/w3-total-cache/)
+  (more options but it’s harder to configure).
 
 
 ## Other
