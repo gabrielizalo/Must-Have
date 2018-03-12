@@ -58,7 +58,7 @@ Taken from:
   Favicon by RealFaviconGenerator is a WordPress plugin to create and install your favicon in a few seconds.
 
 
-* [**GA Google Analytics**](httphttps://wordpress.org/plugins/ga-google-analytics/):
+* [**GA Google Analytics**](https://wordpress.org/plugins/ga-google-analytics/):
   This plugin enables Google Analytics for your entire WordPress site. Lightweight and fast with plenty of great features.
 
 
@@ -67,6 +67,10 @@ Taken from:
 
     Alternative:
     [_Smush Image Compression and Optimization_](https://wordpress.org/plugins/wp-smushit/).
+
+
+* [**Loco Translate**](https://wordpress.org/plugins/loco-translate/):
+  Loco Translate provides in-browser editing of WordPress translation files.
 
 
 * [**WP Bakery Page Builder**](https://wpbakery.com/) formerly _Visual Composer_:
