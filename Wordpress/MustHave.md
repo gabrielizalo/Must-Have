@@ -73,6 +73,10 @@ Taken from:
   Loco Translate provides in-browser editing of WordPress translation files.
 
 
+* [**Polilang**](https://wordpress.org/plugins/polylang/): Polylang
+  allows you to create a bilingual or multilingual WordPress site.
+
+
 * [**WP Bakery Page Builder**](https://wpbakery.com/) formerly _Visual Composer_:
   Choose a theme that use it. It's the # 1 WordPress Page Builder Plugin. Build any layout you can imagine with intuitive drag and drop builder – no programming knowledge required.
 
