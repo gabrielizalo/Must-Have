@@ -77,6 +77,9 @@ Taken from:
   allows you to create a bilingual or multilingual WordPress site.
 
 
+* [**Virtual Robots.txt**](https://wordpress.org/plugins/pc-robotstxt/): Virtual Robots.txt is an easy (i.e. automated) solution to creating and managing a robots.txt file for your site. Instead of mucking about with FTP, files, permissions ..etc, just upload and activate the plugin and you’re done. Use [](https://raiolanetworks.es/blog/mejor-robots-txt-wordpress-manual-explicativo-del-robots-txt/)
+
+
 * [**WP Bakery Page Builder**](https://wpbakery.com/) formerly _Visual Composer_:
   Choose a theme that use it. It's the # 1 WordPress Page Builder Plugin. Build any layout you can imagine with intuitive drag and drop builder – no programming knowledge required.
 
