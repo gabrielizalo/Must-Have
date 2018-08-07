@@ -27,7 +27,7 @@ Taken from:
 
 1. [Install a security plugin](#security)
 2. Create your content: _Pages_ > _Add New_ > Create basic pages: home, contact...
-3. Configure your settings, setup main menu and update: _Settings_ > _Writing_ > _Update Services_ > Copy & Paste the Ping Services from [WordpressPingList.md](WordpressPingList.md).
+3. Configure your settings, setup main menu and update: _Settings_ > _Writing_ > _Update Services_ > Copy & Paste the Ping Services from [WordpressPingList.md](PingList.md).
 4. Create users
 5. [Install a SEO plugin](#seo)
 6. [Add social buttons](#social-media) (share and follow buttons).

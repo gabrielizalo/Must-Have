@@ -3,11 +3,11 @@
 All the tools that I MUST HAVE in my personal PC and projects:
 
 
-## [**- Personal Desktop**](PersonalDesktop/MustHave.md)
+## [**- Personal Desktop**](PersonalDesktop/)
 
 
-## [**- Wordpress**](Wordpress/MustHave.md)
+## [**- Wordpress**](Wordpress/)
 
 
-## [**- WooCommerce**](WooCommerce/MustHave.md)
+## [**- WooCommerce**](WooCommerce/)
 
