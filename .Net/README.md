@@ -11,3 +11,6 @@
 
 * [**Config.Net**](https://github.com/aloneguid/config):
   A comprehensive easy to use and powerful .NET configuration library, fully covered with unit tests and tested in the wild on thousands of servers and applications.
+
+* [**Serilog**](https://serilog.net/):
+  Like many other libraries for .NET, Serilog provides diagnostic logging to files, the console, and elsewhere. It is easy to set up, has a clean API, and is portable between recent .NET platforms.
