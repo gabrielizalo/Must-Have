@@ -62,11 +62,11 @@ Taken from:
   This plugin enables Google Analytics for your entire WordPress site. Lightweight and fast with plenty of great features.
 
 
-* [**Imagify Image Optimizer**](https://wordpress.org/plugins/imagify/):
-  Dramatically reduce image file sizes without losing quality, make your website load faster, boost your SEO and save money on your bandwidth (From Us 5 per Month).
+* [**Smush Image Compression and Optimization**](https://wordpress.org/plugins/wp-smushit/):
+  Compress and optimize (or optimise) image files, improve performance and boost your SEO rank using Smush WordPress image compression and optimization..
 
     Alternative:
-    [_Smush Image Compression and Optimization_](https://wordpress.org/plugins/wp-smushit/).
+    [_Imagify Image Optimizer_](https://wordpress.org/plugins/imagify/) (Commercial: From Us 5 per Month).
 
 
 * [**Loco Translate**](https://wordpress.org/plugins/loco-translate/):
