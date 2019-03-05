@@ -120,6 +120,16 @@ Taken from:
 
 ### Performance
 
+* [**instant.page**](https://instant.page/):
+  Make your site’s pages instant in 1 minute and improve your conversion rate by 1%.
+  Add this `Snippet` to wordpress using [Code Snippets](https://wordpress.org/plugins/code-snippets/) plugin.
+  ```
+  add_action( 'wp_footer', function () { ?>
+  	HERE INSTA.PAGE CODE
+  <?php } );
+  ```
+
+
 * [**SG Optimizer/SuperCacher SiteGround**](https://wordpress.org/plugins/sg-cachepress/):
   This plugin is designed to link WordPress with the [**SiteGround**](http://bit.ly/AX-SuperHosting ) Performance services. **It WILL NOT WORK on another hosting provider**. _Important:_ Verify that is working via CPanel and plugin config.
 
