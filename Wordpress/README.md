@@ -10,7 +10,7 @@ Taken from:
 3. Install WordPress.
 4. Configure an SSL certificate.
 5. Create email accounts (1 from gmail + N from own domain).
-6. Register your site with [Google Search Console](https://search.google.com/):
+6. Register your site with [Google Search Console](https://search.google.com/search-console/about)
 7. Set up a [Google Analytics](https://analytics.google.com/) account
 9. Plan a reliable backup workflow (via CPanel or Plugin).
 9. Set latest _PHP_ version in CPanel.
@@ -42,7 +42,10 @@ Taken from:
 11. Test the site: Check all posts and pages, if you have a contact form
     test if it properly works, try out the social buttons & all the other
     features you have on your site.
-13. Setup a [Uptime Monitoring Service](https://www.freshworks.com/website-monitoring/).
+12. Setup a [Uptime Monitoring Service](https://www.freshworks.com/website-monitoring/).
+13. Do you want to get info about conversions, ads...? Then:
+    - [Add Goals and Track Events with Google Analytics](https://www.wpbeginner.com/wp-tutorials/how-to-add-google-analytics-event-tracking-in-wordpress/).
+    - [Add Facebook Pixel](https://www.facebook.com/business/learn/facebook-ads-pixel).
 
 
 
