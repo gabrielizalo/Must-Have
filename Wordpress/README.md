@@ -50,7 +50,7 @@ Inspired by:
    although [Elementor](https://elementor.com/) or
    [Beaver Builder](https://www.wpbeaverbuilder.com/) page Builders are
    my recommended.
-10. [Connect your site to Google Analytics](#general-purpose).
+10. [Connect your site to Google Analytics](#analytics).
 11. [Install a caching plugin](#performance)
 12. Setup the other below plugins. **Only install and enable truly
     necessary plugins**.
@@ -61,6 +61,7 @@ Inspired by:
 15. Do you want to get info about conversions, ads...? Then:
     - [Add Goals and Track Events with Google Analytics](https://www.wpbeginner.com/wp-tutorials/how-to-add-google-analytics-event-tracking-in-wordpress/).
     - [Add Facebook Pixel](https://www.facebook.com/business/learn/facebook-ads-pixel).
+    - [WordPress Conversion Tracking Made Simple: A Step-by-Step Guide](https://www.wpbeginner.com/beginners-guide/wordpress-conversion-tracking-made-simple-a-step-by-step-guide/).
 
 
 
@@ -88,10 +89,6 @@ Inspired by:
   install your favicon in a few seconds.
 
 
-* [**Monster Insights**](https://www.monsterinsights.com/): Number 1
-  Google Analytics Plugin for WordPress that’s Easy and Powerful.
-
-
 * [**Imagify Image Optimizer**](https://wordpress.org/plugins/imagify/):
   Dramatically reduce image file sizes without losing quality, make your
   website load faster, boost your SEO and save money on your bandwidth
@@ -117,6 +114,27 @@ Inspired by:
   [robots.txt](robots.txt) **and remember update Sitemaps at the final
   of the file**.
 
+
+
+### Analytics
+
+#### For ecommerce
+
+* [**Enhanced Ecommerce Google Analytics Plugin for WooCommerce**](https://www.tatvic.com/tatvic-labs/woocommerce-extension/):
+  Google Analytics WooCommerce plugin allows you to use the newly
+  launched feature of Universal Analytics – Enhanced Ecommerce.
+
+    * [Google Analytics Plugin for WooCommerce](https://wordpress.org/plugins/enhanced-e-commerce-for-woocommerce-store/) (Free)
+    * [Google Analytics Plugin for WooCommerce Pro](https://codecanyon.net/item/actionable-google-analytics-for-woocommerce/9899552) (Us 135)
+
+
+#### For blogs and ecommerce sites
+
+* [**Monster Insights**](https://www.monsterinsights.com/): Number 1
+  Google Analytics Plugin for WordPress that’s Easy and Powerful.
+
+    * [Monster Insights](https://wordpress.org/plugins/google-analytics-for-wordpress/) (Free but not useful for ecommerce)
+    * [Monster Insights Pro](https://www.monsterinsights.com/pricing/) (Us 200/Year)
 
 
 ### Social Media
