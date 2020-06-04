@@ -1,50 +1,64 @@
 # Wordpress Must Have
 
-## Setup - Off-site Tasks
+Inspired by:
+1. [**Launching a New Wordpress Site - Part 1**](http://www.hongkiat.com/blog/launching-new-wordpress-site-part-1/)
+2. [**Launching a New Wordpress Site - Part 2**](http://www.hongkiat.com/blog/launching-new-wordpress-site-part-2/)
 
-Taken from:
-[**Launching a New Wordpress Site - Part 1**](http://www.hongkiat.com/blog/launching-new-wordpress-site-part-1/)
+
+## Setup - Off-site Tasks
 
 1. [Register a domain](http://bit.ly/AX-Dominios)
 2. [Buy a hosting plan](http://bit.ly/AX-SuperHosting)
 3. Install WordPress.
-4. Configure an SSL certificate.
+4. Configure an SSL certificate by Default in CPanel.
 5. Create email accounts (1 from gmail + N from own domain).
 6. Register your site with [Google Search Console](https://search.google.com/search-console/about)
    and remember add *Sitemap* after **Yoast SEO** configuration.
-8. Set up a [Google Analytics](https://analytics.google.com/) account
-9. Plan a reliable backup workflow (via CPanel or Plugin).
-10. Set latest _PHP_ version in CPanel.
+7. Set up a [Google Analytics](https://analytics.google.com/) account
+8. Plan a reliable backup workflow (via CPanel or Plugin).
+9. Set latest _PHP_ version in CPanel.
 
+
+## Setup - Preparation
+
+1. Domain Name
+2. Slogan
+3. Description of the company
+4. Address
+5. Whatsapp number
+6. Company services categories (main and others)
+7. Company Logo Horizontal
+8. Company LogoSymbol (for FavIcon)
+9. Banner 600x60 (for WPSSO Google)
+10. Banner 1200x630 (for WPSSO Facebook)
 
 
 ## Setup - On-site Tasks
 
-Taken from:
-[**Launching a New Wordpress Site - Part 2**](http://www.hongkiat.com/blog/launching-new-wordpress-site-part-2/)
-
-1. [Install a security plugin](#security)
-2. Create your content: _Pages_ > _Add New_ > Create basic pages: home,
+1. Configure an SSL Url by Default in Wordpress > Admin > Settings >
+   General >  WordPress Address (URL) & Site Address (URL)
+3. [Install a security plugin](#security)
+4. Create your content: _Pages_ > _Add New_ > Create basic pages: home,
    contact...
-3. Configure your settings, setup main menu and update: _Settings_ >
+5. Configure your settings, setup main menu and update: _Settings_ >
    _Writing_ > _Update Services_ > Copy & Paste the Ping Services from
    [WordpressPingList.md](PingList.md).
-4. Create users
-5. [Install a SEO plugin](#seo)
-6. [Add social buttons](#social-media) (share and follow buttons).
-7. Activate & customize [a theme](https://themeforest.net/category/wordpress)
+6. Create users
+7. [Install a SEO plugin](#seo)
+8. [Add social buttons](#social-media) (share and follow buttons).
+9. Activate & customize [a theme](https://themeforest.net/category/wordpress)
    although [Elementor](https://elementor.com/) or
    [Beaver Builder](https://www.wpbeaverbuilder.com/) page Builders are
    my recommended.
-8. [Connect your site to Google Analytics](#general-purpose).
-9. [Install a caching plugin](#performance)
-10. Setup the other below plugins. **Only install and enable truly
+10. [Connect your site to Google Analytics](#general-purpose).
+11. [Install a caching plugin](#performance)
+12. Setup the other below plugins. **Only install and enable truly
     necessary plugins**.
-11. Test the site: Check all posts and pages, if you have a contact form
+13. Test the site: Check all posts and pages, if you have a contact form
     test if it properly works, try out the social buttons & all the other
     features you have on your site.
-12. Setup a [Uptime Monitoring Service](https://www.freshworks.com/website-monitoring/).
-13. Do you want to get info about conversions, ads...? Then:
+14. Setup a [Uptime Monitoring Service](https://www.freshworks.com/website-monitoring/).
+15. Do you want to get info about conversions, ads...? Then:
     - [Add Goals and Track Events with Google Analytics](https://www.wpbeginner.com/wp-tutorials/how-to-add-google-analytics-event-tracking-in-wordpress/).
     - [Add Facebook Pixel](https://www.facebook.com/business/learn/facebook-ads-pixel).
 
@@ -149,6 +163,7 @@ Taken from:
     * [SecuPress Free](https://wordpress.org/plugins/secupress/) (Free)
     * [SecuPress Pro](https://secupress.me/) (Us 59 per Year)
 
+   Other alternatives can be found in: [8 Best WordPress Security Plugins to Lock Down Your Site](https://elementor.com/blog/wordpress-security-plugins/).
 
 
 ### Performance
