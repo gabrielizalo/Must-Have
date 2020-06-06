@@ -37,12 +37,19 @@ Inspired by:
 
 1. Configure an SSL Url by Default in Wordpress > Admin > Settings >
    General >  WordPress Address (URL) & Site Address (URL)
-3. [Install a security plugin](#security)
-4. Create your content: _Pages_ > _Add New_ > Create basic pages: home,
+2. [Install a security plugin](#security)
+3. Create your content: _Pages_ > _Add New_ > Create basic pages: home,
    contact...
-5. Configure your settings, setup main menu and update: _Settings_ >
+4. Configure your settings, setup main menu and update: _Settings_ >
    _Writing_ > _Update Services_ > Copy & Paste the Ping Services from
    [WordpressPingList.md](PingList.md).
+5. Configure your settings, permalinks: _Settings_ >
+   _Permalinks_:
+   - Common Settings > Custom Structure: `/blog/%year%/%monthnum%/%postname%/`
+   - Optional:
+     - Category Base: `/shop/categories`
+     - Tag Base: `/shop/tags`
+   - Product permalinks `/shop/`
 6. Create users
 7. [Install a SEO plugin](#seo)
 8. [Add social buttons](#social-media) (share and follow buttons).
