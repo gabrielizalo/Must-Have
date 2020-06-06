@@ -28,7 +28,7 @@ Inspired by:
 5. Whatsapp number
 6. Company services categories (main and others)
 7. Company Logo Horizontal
-8. Company LogoSymbol (for FavIcon)
+8. Company LogoSymbol 600 x 600 (for FavIcon)
 9. Banner 600x60 (for WPSSO Google)
 10. Banner 1200x630 (for WPSSO Facebook)
 
