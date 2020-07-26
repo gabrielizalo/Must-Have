@@ -35,5 +35,16 @@ complete control.
   PickPlugins Product Slider is easy and user friendly carousel slider for WooCommerce products, You can create 
   unlimited product slider by this plugin and display anywhere via shortcodes.
 
+* [**Product Image Zoom for WooCommerce**](https://wordpress.org/plugins/woocommerce-image-zoom/) - _Free_: 
+  Product Image Zoom for Woocommerce allows you to magnify product images and set zooming features easily and quickly.
 
+* [**YITH WooCommerce Ajax Product Filter**](https://wordpress.org/plugins/yith-woocommerce-ajax-navigation/) - _Free_: 
+  A powerful WooCommerce plugin: WooCommerce product filter widget, WooCommerce Ajax Product Filter lets you apply the 
+  filters you need to display the correct WooCommerce variations of the products you are looking for.
+
+* [**YITH WooCommerce Wishlist**](https://wordpress.org/plugins/yith-woocommerce-wishlist/) - _Free_: The wishlist is 
+  one of the most powerful and popular tools in an ecommerce shop. Thanks to the wishlist, users can: 
+  - Save their favourite products.
+  - Share the wishlist with relatives and friends.
+  - Share the wishlist on social networks and get indirect advertising for your store.
 
