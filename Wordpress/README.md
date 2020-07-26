@@ -137,7 +137,7 @@ Inspired by:
     * [Google Analytics Plugin for WooCommerce Pro](https://codecanyon.net/item/actionable-google-analytics-for-woocommerce/9899552) (Us 135)
 
 
-#### For blogs and ecommerce sites
+#### For blogs and traditional sites
 
 * [**Monster Insights**](https://www.monsterinsights.com/): Number 1
   Google Analytics Plugin for WordPress that’s Easy and Powerful.
