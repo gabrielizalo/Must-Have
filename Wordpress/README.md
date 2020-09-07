@@ -171,6 +171,11 @@ Inspired by:
     * [Performance Tuning](https://wpsso.com/docs/plugins/wpsso/installation/performance-tuning/)
 
 
+* [**Rank Math**](https://rankmath.com/):
+  The new kid of the block. Use it or the Alternative **Yoast SEO**.
+  [How To Migrate To Rank Math](https://www.matthewwoodward.co.uk/seo/reviews/rank-math/).
+
+
 * [**Yoast SEO**](https://wordpress.org/plugins/wordpress-seo/):
   This plugin is written from the ground up by Joost de Valk and his
   team at [Yoast](https://yoast.com/) to improve your site's SEO on
