@@ -69,6 +69,8 @@ Inspired by:
     - [WordPress Conversion Tracking Made Simple: A Step-by-Step Guide](https://www.wpbeginner.com/beginners-guide/wordpress-conversion-tracking-made-simple-a-step-by-step-guide/).
 16. Does company need a CRM? Then:
     - [14 WordPress CRM Plugins to Supercharge Your Business in 2020](https://kinsta.com/blog/wordpress-crm/).
+17. Do you want the latest Wordpress/Google feature? Then:
+    - [Get Ready to Tell Stories on WordPress](https://google.github.io/web-stories-wp/beta/).
 
 
 
@@ -213,14 +215,15 @@ Inspired by:
 * [**WP Rocket**](https://wp-rocket.me/):
   Make WordPress Load Fast in a Few Clicks. Recognized as the most
   powerful caching plugin by WordPress experts (Us 39 per Year).
-  [The Ideal WP Rocket Settings With Cloudflare + MaxCDN Instructions](https://onlinemediamasters.com/wp-rocket-settings/).
+  - [The Ideal WP Rocket Settings With Cloudflare + MaxCDN Instructions](https://onlinemediamasters.com/wp-rocket-settings/).
+  - [How to Properly Install and Setup WP Rocket in WordPress](https://www.wpbeginner.com/plugins/how-to-properly-install-and-setup-wp-rocket-in-wordpress/).
 
-    Alternatives:
-    [_WP Super Cache_](https://wordpress.org/plugins/wp-super-cache/)
-    (easier to set up)
-    or
-    [_W3 Total Cache_](hhttps://wordpress.org/plugins/w3-total-cache/)
-    (more options but it’s harder to configure).
+  Alternatives:
+  [_WP Super Cache_](https://wordpress.org/plugins/wp-super-cache/)
+  (easier to set up)
+  or
+  [_W3 Total Cache_](hhttps://wordpress.org/plugins/w3-total-cache/)
+  (more options but it’s harder to configure).
 
 
 ## CDN
