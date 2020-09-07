@@ -219,11 +219,9 @@ Inspired by:
   - [How to Properly Install and Setup WP Rocket in WordPress](https://www.wpbeginner.com/plugins/how-to-properly-install-and-setup-wp-rocket-in-wordpress/).
 
   Alternatives:
-  [_WP Super Cache_](https://wordpress.org/plugins/wp-super-cache/)
-  (easier to set up)
+  [_WP Super Cache_](https://wordpress.org/plugins/wp-super-cache/) (easier to set up)
   or
-  [_W3 Total Cache_](hhttps://wordpress.org/plugins/w3-total-cache/)
-  (more options but it’s harder to configure).
+  [_W3 Total Cache_](https://wordpress.org/plugins/w3-total-cache/) (more options but it’s harder to configure).
 
 
 ## CDN
