@@ -23,10 +23,17 @@ complete control.
   to redirect customers to the checkout page. This can encourage buyers to shop more and quickly. You will increase 
   your sales reducing cart abandonment.
 
-* [**FullStory  Free**](https://www.fullstory.com/free) - _Free (1,000 sessions/month)_: Search your customer experience 
+* [**Facebook for WooCommerce**](https://www.fullstory.com/free) - _Free_:
+  This is the official Facebook for WooCommerce plugin that connects
+  your WooCommerce website to Facebook. With this plugin, you can
+  install the Facebook pixel, upload your online store catalog, and
+  create a shop on your Facebook page, enabling you to easily run
+  dynamic ads.
+
+* [**FullStory  Free**](https://www.fullstory.com/free) - _Free (1,000 sessions/month)_: Search your customer experience
   like you search the web. What do you want to know about your customer experience?
 
-* [**Omnisend for WooCommerce**](https://wordpress.org/plugins/omnisend-connect/) - _Free (15,000 emails / mo)_: 
+* [**Omnisend for WooCommerce**](https://wordpress.org/plugins/omnisend-connect/) - _Free (15,000 emails / mo)_:
   Ecommerce Marketing Automation for Smart Marketers. Easy Email Marketing Newsletters with Build advanced automation 
   workflows based on visitor actions to meet your needs.
 
