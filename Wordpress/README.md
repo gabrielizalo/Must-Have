@@ -53,7 +53,7 @@ Inspired by:
 6. Create users
 7. [Install a SEO plugin](#seo)
 8. [Add social buttons](#social-media) (share and follow buttons).
-9. Activate & customize [a FAST theme](https://kinsta.com/blog/fastest-wordpress-theme/) with 
+9. Activate & customize [the CHILD theme of a FAST theme](https://kinsta.com/blog/fastest-wordpress-theme/) with
    [Elementor](https://elementor.com/) or [Beaver Builder](https://www.wpbeaverbuilder.com/) page Builders.
 10. [Connect your site to Google Analytics](#analytics).
 11. [Install a caching plugin](#performance)
