@@ -11,7 +11,13 @@ complete control.
 
 ## Plugins
 
-* [**Direct Checkout for WooCommerce**](https://wordpress.org/plugins/woocommerce-direct-checkout/) - _Free_: WooCommerce 
+* [**Checkout Manager for WooCommerce**](https://wordpress.org/plugins/woocommerce-checkout-manager/) - _Free_:
+  WooCommerce checkout manager is a plugin built to be the wizard of
+  checkout pages. Helps to modify in an intuitive way, allows fields
+  customization, to extend billing information and to create any field
+  required at WooCommerce checkout.
+
+* [**Direct Checkout for WooCommerce**](https://wordpress.org/plugins/woocommerce-direct-checkout/) - _Free_: WooCommerce
   Direct Checkout is a plugin to allow the steps reduction inside Woocommerce checkout process. You are able to 
   simplify the checkout process by skipping the shopping cart page. The “Add to cart” button is added in each product 
   to redirect customers to the checkout page. This can encourage buyers to shop more and quickly. You will increase 
