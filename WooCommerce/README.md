@@ -61,3 +61,5 @@ complete control.
   - Share the wishlist with relatives and friends.
   - Share the wishlist on social networks and get indirect advertising for your store.
 
+* [**WPSSO**](https://wpsso.com):
+    * [WPSSO Product Metadata for WooCommerce](https://wordpress.org/plugins/wpsso-wc-metadata/) (Free)
