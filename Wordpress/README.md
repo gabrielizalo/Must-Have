@@ -111,6 +111,11 @@ Inspired by:
   files.
 
 
+* [**ManageWP Worker**](https://wordpress.org/plugins/worker/):
+  If you have several Wordpress sites, use ManageWP, a dashboard that
+  helps you save time and nerves by automating your workflow.
+
+
 * [**Polilang**](https://wordpress.org/plugins/polylang/): Polylang
   allows you to create a bilingual or multilingual WordPress site.
 
