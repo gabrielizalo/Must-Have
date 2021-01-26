@@ -129,6 +129,11 @@ Inspired by:
   of the file**.
 
 
+* [**Yoast Duplicate Post**](https://wordpress.org/plugins/duplicate-post/):
+  This plugin allows users to clone posts of any type, or copy them to
+  new drafts for further editing.
+
+
 
 ### Analytics
 
