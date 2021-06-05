@@ -51,25 +51,24 @@ Inspired by:
      - Tag Base: `/shop/tags`
    - Product permalinks `/shop/`
 6. Create users
-7. [Install a SEO plugin](#seo)
+7. [Install a SEO plugin and Connect your site to Google Analytics and Search Console](#seo)
 8. [Add social buttons](#social-media) (share and follow buttons).
 9. Activate & customize [the CHILD theme of a FAST theme](https://kinsta.com/blog/fastest-wordpress-theme/) with
    [Elementor](https://elementor.com/) or [Beaver Builder](https://www.wpbeaverbuilder.com/) page Builders.
-10. [Connect your site to Google Analytics](#analytics).
-11. [Install a caching plugin](#performance)
-12. Setup the other below plugins. **Only install and enable truly
+10. [Install a caching plugin](#performance)
+11. Setup the other below plugins. **Only install and enable truly
     necessary plugins**.
-13. Test the site: Check all posts and pages, if you have a contact form
+12. Test the site: Check all posts and pages, if you have a contact form
     test if it properly works, try out the social buttons & all the other
     features you have on your site.
-14. Setup a [Uptime Monitoring Service](https://www.freshworks.com/website-monitoring/).
-15. Do you want to get info about conversions, ads...? Then:
+13. Setup a [Uptime Monitoring Service](https://www.freshworks.com/website-monitoring/).
+14. Do you want to get info about conversions, ads...? Then:
     - [Add Goals and Track Events with Google Analytics](https://www.wpbeginner.com/wp-tutorials/how-to-add-google-analytics-event-tracking-in-wordpress/).
     - [Add Facebook Pixel](https://www.facebook.com/business/learn/facebook-ads-pixel).
     - [WordPress Conversion Tracking Made Simple: A Step-by-Step Guide](https://www.wpbeginner.com/beginners-guide/wordpress-conversion-tracking-made-simple-a-step-by-step-guide/).
-16. Does company need a CRM? Then:
+15. Does company need a CRM? Then:
     - [14 WordPress CRM Plugins to Supercharge Your Business in 2020](https://kinsta.com/blog/wordpress-crm/).
-17. Do you want the latest Wordpress/Google feature? Then:
+16. Do you want the latest Wordpress/Google feature? Then:
     - [Get Ready to Tell Stories on WordPress](https://google.github.io/web-stories-wp/beta/).
 
 
@@ -135,27 +134,6 @@ Inspired by:
 
 
 
-### Analytics
-
-#### For ecommerce
-
-* [**Enhanced Ecommerce Google Analytics Plugin for WooCommerce**](https://www.tatvic.com/tatvic-labs/woocommerce-extension/):
-  Google Analytics WooCommerce plugin allows you to use the newly
-  launched feature of Universal Analytics – Enhanced Ecommerce.
-
-    * [Google Analytics Plugin for WooCommerce](https://wordpress.org/plugins/enhanced-e-commerce-for-woocommerce-store/) (Free)
-    * [Google Analytics Plugin for WooCommerce Pro](https://codecanyon.net/item/actionable-google-analytics-for-woocommerce/9899552) (Us 135)
-
-
-#### For blogs and traditional sites
-
-* [**Monster Insights**](https://www.monsterinsights.com/): Number 1
-  Google Analytics Plugin for WordPress that’s Easy and Powerful.
-
-    * [Monster Insights](https://wordpress.org/plugins/google-analytics-for-wordpress/) (Free but not useful for ecommerce)
-    * [Monster Insights Pro](https://www.monsterinsights.com/pricing/) (Us 200/Year)
-
-
 ### Social Media
 
 * [**Easy Social Share Buttons for WordPress**](https://socialsharingplugin.com):
@@ -169,31 +147,19 @@ Inspired by:
 
 ### SEO
 
-* [**WPSSO**](https://wpsso.com):
-  **WPSSO uses your *existing* content to generate meta tags and Schema
-  markup** --- there's no need to manually enter / configure any
-  additional settings or values, *but if you want to* , you can
-  customize just about anything and everything.
-    * [WPSSO Core Plugin](https://wordpress.org/plugins/wpsso/) (Free)
-    * [WPSSO Core Plugin Pro](http://wpsso.com/extend/plugins/wpsso/) (Us 49)
-    * [WPSSO Schema JSON-LD Markup ](https://wordpress.org/plugins/wpsso-schema-json-ld/) (Free Addon)
-    * [WPSSO Schema JSON-LD Markup Pro](https://wpsso.com/extend/plugins/wpsso-schema-json-ld/) (Us 29)
-    * [Performance Tuning](https://wpsso.com/docs/plugins/wpsso/installation/performance-tuning/)
-
-
 * [**Rank Math**](https://rankmath.com/):
   The new kid of the block. Use it or the Alternative **Yoast SEO**.
   [How To Migrate To Rank Math](https://www.matthewwoodward.co.uk/seo/reviews/rank-math/).
-
-
-* [**Yoast SEO**](https://wordpress.org/plugins/wordpress-seo/):
-  This plugin is written from the ground up by Joost de Valk and his
-  team at [Yoast](https://yoast.com/) to improve your site's SEO on
-  *all* needed aspects. While this
-  [Yoast SEO plugin](https://yoast.com/wordpress/plugins/seo/) goes the
-  extra mile to take care of all the technical optimization.
-  [How to Install and Setup WordPress SEO Plugin by
-  Yoast](http://www.wpbeginner.com/plugins/how-to-install-and-setup-wordpress-seo-plugin-by-yoast/).
+  - Config:
+    1. Create and config **Google Analytics** account.
+    2. Create and config **Search Console** account.
+    3. Setup all Rank Math Settings.
+    4. General Settings > Analytics:
+       - Search Console
+       - Analytics > Install analytics code
+       - Email Reports > Activate
+    5. In Google Analytics create monthly emails reports too:
+       Info: [How to Set Up Recurring Google Analytics Email Reports](https://www.cdgi.com/2019/05/google-analytics-email-reports/)
 
 
 
