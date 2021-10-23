@@ -193,11 +193,11 @@ Inspired by:
   Rocket_, disable _Home Optimization_ (HTML, JS & CSS).
 
 
-* [**WP Rocket**](https://wp-rocket.me/):
+* [**WP Rocket**](https://wp-rocket.me/?ref=04c2ff82):
   Make WordPress Load Fast in a Few Clicks. Recognized as the most
   powerful caching plugin by WordPress experts (Us 39 per Year).
-  - [The Ideal WP Rocket Settings With Cloudflare + MaxCDN Instructions](https://onlinemediamasters.com/wp-rocket-settings/).
   - [How to Properly Install and Setup WP Rocket in WordPress](https://www.wpbeginner.com/plugins/how-to-properly-install-and-setup-wp-rocket-in-wordpress/).
+  - [Page Speed Optimization for WordPress: 19 Performance Tips](https://wp-rocket.me/blog/guide-to-page-speed-optimization-for-wordpress/).
 
   Alternatives:
   [_WP Super Cache_](https://wordpress.org/plugins/wp-super-cache/) (easier to set up)
