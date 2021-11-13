@@ -151,8 +151,9 @@ Inspired by:
 ### SEO
 
 * [**Rank Math**](https://rankmath.com/):
-  The new kid of the block. Use it or the Alternative **Yoast SEO**
-  (How to Migrate to Rank Math: _[Rank Math Review – Why I Ditched Yoast For RankMath](https://www.matthewwoodward.co.uk/seo/reviews/rank-math/)_.
+  The new kid of the block. WordPress SEO: Made Easy. Rank Math is the
+  most powerful way to get BEST WordPress SEO tools added to your
+  website.
   - Config:
     1. Create and config **Google Analytics** account.
     2. Create and config **Search Console** account.
@@ -163,8 +164,9 @@ Inspired by:
        - Email Reports > Activate
     5. In Google Analytics create monthly emails reports too:
        Info: [How to Set Up Recurring Google Analytics Email Reports](https://www.cdgi.com/2019/05/google-analytics-email-reports/)
+  - How to Migrate to Rank Math: _[Rank Math Review – Why I Ditched Yoast For RankMath](https://www.matthewwoodward.co.uk/seo/reviews/rank-math/)_
 
-
+  Alternative: _[Yoast SEO](https://yoast.com/wordpress/plugins/seo/)_.
 
 ### Security
 
