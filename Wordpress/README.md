@@ -100,12 +100,12 @@ Inspired by:
   install your favicon in a few seconds.
 
 
-* [_Smush – Lazy Load Images, Optimize & Compress Images_](https://wordpress.org/plugins/wp-smushit/):
+* [**Smush – Lazy Load Images, Optimize & Compress Images**](https://wordpress.org/plugins/wp-smushit/):
   Optimize images, turn on lazy load, resize, compress & improve your
   Google Page Speed with the incredibly powerful and 100% free WordPress
   image smusher.
 
-  Alternative: [**Imagify Image Optimizer**](https://wordpress.org/plugins/imagify/) by **WP Rocket**.
+  Alternative: [_Imagify Image Optimizer_](https://wordpress.org/plugins/imagify/) by **WP Rocket**.
 
 
 * [**Loco Translate**](https://wordpress.org/plugins/loco-translate/):
@@ -151,8 +151,8 @@ Inspired by:
 ### SEO
 
 * [**Rank Math**](https://rankmath.com/):
-  The new kid of the block. Use it or the Alternative **Yoast SEO**.
-  [How To Migrate To Rank Math](https://www.matthewwoodward.co.uk/seo/reviews/rank-math/).
+  The new kid of the block. Use it or the Alternative **Yoast SEO**
+  (How to Migrate to Rank Math: _[Rank Math Review – Why I Ditched Yoast For RankMath](https://www.matthewwoodward.co.uk/seo/reviews/rank-math/_).
   - Config:
     1. Create and config **Google Analytics** account.
     2. Create and config **Search Console** account.
@@ -174,7 +174,7 @@ Inspired by:
     * [SecuPress Free](https://wordpress.org/plugins/secupress/) (Free)
     * [SecuPress Pro](https://secupress.me/) (Us 70 per Year)
 
-   Alternatives: [8 Best WordPress Security Plugins to Lock Down Your Site](https://elementor.com/blog/wordpress-security-plugins/).
+   Alternatives: _[8 Best WordPress Security Plugins to Lock Down Your Site](https://elementor.com/blog/wordpress-security-plugins/)_.
 
 
 ### Performance
@@ -213,10 +213,10 @@ Inspired by:
 
 ## CDN
 
-* [**Bunny.net **](https://bunny.net/)
+* [**Bunny.net**](https://bunny.net/)
   Go faster than the fastest with the next-generation CDN, edge storage,
   and optimization service. We make lightning fast performance at any
   scale easier than ever before.
   - [How to Setup BunnyCDN in WordPress](https://wpspeedmatters.com/bunnycdn-wordpress/#how-to-setup-bunnycdn-in-wordpress).
 
-  Alternative: [**RocketCDN by WP Rocket**](https://wp-rocket.me/rocketcdn/) by **WP Rocket**.
+  Alternative: [**RocketCDN**](https://wp-rocket.me/rocketcdn/) by **WP Rocket**.
