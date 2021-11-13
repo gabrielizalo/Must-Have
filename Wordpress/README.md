@@ -13,10 +13,11 @@ Inspired by:
 4. Configure an SSL certificate by Default in CPanel.
 5. Create email accounts (1 from gmail + N from own domain).
 6. Register your site with [Google Search Console](https://search.google.com/search-console/about)
-   and remember add *Sitemap* after **Yoast SEO** configuration.
+   and remember add *Sitemap*.
 7. Set up a [Google Analytics](https://analytics.google.com/) account
 8. Plan a reliable backup workflow (via CPanel or Plugin).
 9. Set latest _PHP_ version in CPanel.
+10. If using SiteGround Hosting [set Ultafast PHP](https://www.siteground.com/kb/ultrafast-php-enable/).
 
 
 ## Setup - Preparation
@@ -61,7 +62,7 @@ Inspired by:
 12. Test the site: Check all posts and pages, if you have a contact form
     test if it properly works, try out the social buttons & all the other
     features you have on your site.
-13. Setup a [Uptime Monitoring Service](https://www.freshworks.com/website-monitoring/).
+13. Setup a Uptime Monitoring Service. Recommended the Free [Freshping by Freshworks](https://www.freshworks.com/website-monitoring/).
 14. Do you want to get info about conversions, ads...? Then:
     - [Add Goals and Track Events with Google Analytics](https://www.wpbeginner.com/wp-tutorials/how-to-add-google-analytics-event-tracking-in-wordpress/).
     - [Add Facebook Pixel](https://www.facebook.com/business/learn/facebook-ads-pixel).
@@ -70,6 +71,8 @@ Inspired by:
     - [14 WordPress CRM Plugins to Supercharge Your Business in 2020](https://kinsta.com/blog/wordpress-crm/).
 16. Do you want the latest Wordpress/Google feature? Then:
     - [Get Ready to Tell Stories on WordPress](https://google.github.io/web-stories-wp/beta/).
+17. Do you use WooCommerce and Instagram? Then:
+    - [The definitive guide on how to setup WooCommerce + Facebook + Instagram shop](https://saucal.com/the-definitive-guide-on-how-to-setup-woocommerce-facebook-instagram-shop/).
 
 
 
@@ -92,17 +95,17 @@ Inspired by:
   hours!
 
 
-* [**Favicon by RealFaviconGenerator**](http://realfavicongenerator.net/extensions/wordpress/):
+* [**Favicon by RealFaviconGenerator**](https://wordpress.org/plugins/favicon-by-realfavicongenerator/):
   Favicon by RealFaviconGenerator is a WordPress plugin to create and
   install your favicon in a few seconds.
 
 
-* [**Imagify Image Optimizer**](https://wordpress.org/plugins/imagify/):
-  Dramatically reduce image file sizes without losing quality, make your
-  website load faster, boost your SEO and save money on your bandwidth
-  (From Us 5 per Month).
+* [_Smush – Lazy Load Images, Optimize & Compress Images_](https://wordpress.org/plugins/wp-smushit/):
+  Optimize images, turn on lazy load, resize, compress & improve your
+  Google Page Speed with the incredibly powerful and 100% free WordPress
+  image smusher.
 
-  Alternative: [_Smush Image Compression and Optimization_](https://wordpress.org/plugins/wp-smushit/).
+  Alternative: [**Imagify Image Optimizer**](https://wordpress.org/plugins/imagify/) by **WP Rocket**.
 
 
 * [**Loco Translate**](https://wordpress.org/plugins/loco-translate/):
@@ -111,8 +114,8 @@ Inspired by:
 
 
 * [**ManageWP Worker**](https://wordpress.org/plugins/worker/):
-  If you have several Wordpress sites, use ManageWP, a dashboard that
-  helps you save time and nerves by automating your workflow.
+  If you have several Wordpress sites, use [ManageWP](https://managewp.com/),
+  a dashboard that helps you save time and nerves by automating your workflow.
 
 
 * [**Polilang**](https://wordpress.org/plugins/polylang/): Polylang
@@ -169,9 +172,9 @@ Inspired by:
   Protect your WordPress with malware scans; block bots & suspicious IPs.
   Get a complete WordPress security toolkit for free or as a pro plugin.
     * [SecuPress Free](https://wordpress.org/plugins/secupress/) (Free)
-    * [SecuPress Pro](https://secupress.me/) (Us 59 per Year)
+    * [SecuPress Pro](https://secupress.me/) (Us 70 per Year)
 
-   Other alternatives can be found in: [8 Best WordPress Security Plugins to Lock Down Your Site](https://elementor.com/blog/wordpress-security-plugins/).
+   Alternatives: [8 Best WordPress Security Plugins to Lock Down Your Site](https://elementor.com/blog/wordpress-security-plugins/).
 
 
 ### Performance
@@ -179,13 +182,15 @@ Inspired by:
 * [**instant.page**](https://instant.page/):
   Make your site’s pages instant in 1 minute and improve your conversion rate by 1%.
   Add this `Snippet` to wordpress using [Code Snippets](https://wordpress.org/plugins/code-snippets/) plugin.
+  NOT NECESSARY IF USING WP ROCKET.
+
   ```
   add_action( 'wp_footer', function () { ?>
   	HERE INSTA.PAGE CODE
   <?php } );
   ```
 
-* [**SG Optimizer/SuperCacher SiteGround**](https://wordpress.org/plugins/sg-cachepress/):
+* [**SiteGround Optimizer**](https://wordpress.org/plugins/sg-cachepress/):
   This plugin is designed to link WordPress with the [**SiteGround**](http://bit.ly/AX-SuperHosting )
   Performance services. **It WILL NOT WORK on another hosting provider**.
 
@@ -196,8 +201,9 @@ Inspired by:
 * [**WP Rocket**](https://wp-rocket.me/?ref=04c2ff82):
   Make WordPress Load Fast in a Few Clicks. Recognized as the most
   powerful caching plugin by WordPress experts (Us 39 per Year).
-  - [How to Properly Install and Setup WP Rocket in WordPress](https://www.wpbeginner.com/plugins/how-to-properly-install-and-setup-wp-rocket-in-wordpress/).
+  - [The Ideal WP Rocket Settings (2021)](https://onlinemediamasters.com/wp-rocket-settings/).
   - [Page Speed Optimization for WordPress: 19 Performance Tips](https://wp-rocket.me/blog/guide-to-page-speed-optimization-for-wordpress/).
+  - [How to Speed Up Your WordPress Site (Ultimate 2021 Guide)](https://kinsta.com/learn/speed-up-wordpress/).
 
   Alternatives:
   [_WP Super Cache_](https://wordpress.org/plugins/wp-super-cache/) (easier to set up)
@@ -207,8 +213,10 @@ Inspired by:
 
 ## CDN
 
+* [**Bunny.net **](https://bunny.net/)
+  Go faster than the fastest with the next-generation CDN, edge storage,
+  and optimization service. We make lightning fast performance at any
+  scale easier than ever before.
+  - [How to Setup BunnyCDN in WordPress](https://wpspeedmatters.com/bunnycdn-wordpress/#how-to-setup-bunnycdn-in-wordpress).
 
-* [**Use KeyCDN**](http://bit.ly/AX-CDN) or [**RocketCDN**](https://go.wp-rocket.me/rocket-cdn)
-
-    * Enable [HTTP/2](https://www.keycdn.com/support/http2/).
-    * Enable [Prefetching](https://www.keycdn.com/support/prefetching/).
+  Alternative: [**RocketCDN by WP Rocket**](https://wp-rocket.me/rocketcdn/) by **WP Rocket**.
