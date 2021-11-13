@@ -150,7 +150,7 @@ Inspired by:
 
 ### SEO
 
-* [**Rank Math**](https://rankmath.com/):
+* [**Rank Math**](https://bit.ly/AX-Seo):
   The new kid of the block. WordPress SEO: Made Easy. Rank Math is the
   most powerful way to get BEST WordPress SEO tools added to your
   website.
