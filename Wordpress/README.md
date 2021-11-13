@@ -221,4 +221,4 @@ Inspired by:
   scale easier than ever before.
   - [How to Setup BunnyCDN in WordPress](https://wpspeedmatters.com/bunnycdn-wordpress/#how-to-setup-bunnycdn-in-wordpress).
 
-  Alternative: [**RocketCDN**](https://wp-rocket.me/rocketcdn/) by **WP Rocket**.
+  Alternative: [_RocketCDN_](https://wp-rocket.me/rocketcdn/) by **WP Rocket**.
