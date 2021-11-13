@@ -152,7 +152,7 @@ Inspired by:
 
 * [**Rank Math**](https://rankmath.com/):
   The new kid of the block. Use it or the Alternative **Yoast SEO**
-  (How to Migrate to Rank Math: _[Rank Math Review – Why I Ditched Yoast For RankMath](https://www.matthewwoodward.co.uk/seo/reviews/rank-math/_).
+  (How to Migrate to Rank Math: _[Rank Math Review – Why I Ditched Yoast For RankMath](https://www.matthewwoodward.co.uk/seo/reviews/rank-math/)_.
   - Config:
     1. Create and config **Google Analytics** account.
     2. Create and config **Search Console** account.
