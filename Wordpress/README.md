@@ -25,6 +25,7 @@ Inspired by:
       post_max_size = 128M
       max_execution_time = 300
       memory_limit = 256M
+      max_input_vars = 2000  
       ```
 
 
