@@ -13,11 +13,17 @@ Inspired by:
 4. Configure an SSL certificate by Default in CPanel.
 5. Create email accounts (1 from gmail + N from own domain).
 6. Register your site with [Google Search Console](https://search.google.com/search-console/about)
-   and remember add *Sitemap*.
-7. Set up a [Google Analytics](https://analytics.google.com/) account
+   and remember add *Sitemap*. If using RankMath it will config automatically.
+7. Set up a [Google Analytics](https://analytics.google.com/) account.
+   If using RankMath it will config automatically.
 8. Plan a reliable backup workflow (via CPanel or Plugin).
 9. Set latest _PHP_ version in CPanel.
 10. If using SiteGround Hosting [set Ultafast PHP](https://www.siteground.com/kb/ultrafast-php-enable/).
+11. Update PHP variables to:
+    upload_max_filesize = 128M
+    post_max_size = 128M
+    max_execution_time = 300
+    memory_limit = 256M
 
 
 ## Setup - Preparation
