@@ -20,10 +20,12 @@ Inspired by:
 9. Set latest _PHP_ version in CPanel.
 10. If using SiteGround Hosting [set Ultafast PHP](https://www.siteground.com/kb/ultrafast-php-enable/).
 11. Update PHP variables to:
-    upload_max_filesize = 128M
-    post_max_size = 128M
-    max_execution_time = 300
-    memory_limit = 256M
+      ```
+      upload_max_filesize = 128M
+      post_max_size = 128M
+      max_execution_time = 300
+      memory_limit = 256M
+      ```
 
 
 ## Setup - Preparation
