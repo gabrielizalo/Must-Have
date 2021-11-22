@@ -224,7 +224,7 @@ Inspired by:
 
 ## CDN
 
-* [**Bunny.net**](https://bunny.net/):
+* [**Bunny.net**](https://bit.ly/AX-SuperCDN):
   Go faster than the fastest with the next-generation CDN, edge storage,
   and optimization service. We make lightning fast performance at any
   scale easier than ever before.
