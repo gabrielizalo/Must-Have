@@ -28,7 +28,7 @@ Inspired by:
 5. Create email accounts (1 from gmail + N from own domain).
 6. Register your site with [Google Search Console](https://search.google.com/search-console/about) and remember add
    **Sitemap** _(If using Rank Math it will config automatically)_.
-7. Set up a [Google Analytics](https://analytics.google.com/) account (If using RankMath it will config automatically).
+7. Set up a [Google Analytics](https://analytics.google.com/) account _(If using RankMath it will config automatically)_.
 8. Plan a reliable backup workflow (via CPanel or Plugin).
 9. Set latest _PHP_ version in CPanel. With SiteGround use [Ultafast PHP](https://www.siteground.com/kb/ultrafast-php-enable/).
 10. Update PHP variables to:
@@ -61,7 +61,7 @@ Inspired by:
 9. Activate & customize [the CHILD theme of a FAST theme](https://kinsta.com/blog/fastest-wordpress-theme/) with
    [Elementor](https://elementor.com/) page Builder.
 10. [Install a caching plugin](#performance)
-11. Setup General Purpose plugins. _(Only install and enable truly necessary plugins)_.
+11. Setup General Purpose plugins _(Only install and enable truly necessary plugins)_.
 12. Test the site: Check all posts and pages, if you have a contact form test if it properly works, try the social
     buttons & all the other features you have on your site.
 13. Setup a Uptime Monitoring Service: Use the Free [Freshping by Freshworks](https://www.freshworks.com/website-monitoring/).
@@ -84,13 +84,13 @@ Inspired by:
 
 ### General Purpose
 
-* [**Coming Soon Page & Maintenance Mode by SeedProd**](https://wordpress.org/plugins/coming-soon/)
-  _(Enable only when you need to use it and not necessary if using Elementor)_: Create a simple Coming Soon Page or
+* [**Coming Soon Page & Maintenance Mode by SeedProd**](https://wordpress.org/plugins/coming-soon/):
+  _(Enable only when you need to use it and not necessary if using Elementor)_ Create a simple Coming Soon Page or
   Maintenance Mode Page. Work on your site in private while visitors see a “Coming Soon” or “Maintenance Mode” page.
 
 
 * [**Contact Form by WPForms**](https://wordpress.org/plugins/wpforms-lite/):
-  _(Not necessary if using Elementor)_: Drag & drop WordPress form builder that’s EASY and POWERFUL. WPForms allow you
+  _(Not necessary if using Elementor)_ Drag & drop WordPress form builder that’s EASY and POWERFUL. WPForms allow you
   to create beautiful contact forms, subscription forms, payment forms, and other type of forms for your site in
   minutes, not hours!
 
@@ -100,7 +100,7 @@ Inspired by:
 
 
 * [**Smush — Lazy Load Images, Optimize & Compress Images**](https://wordpress.org/plugins/wp-smushit/):
-  _(Not necessary if using SiteGround Optimizer)_: Optimize images, turn on lazy load, resize, compress & improve your
+  _(Not necessary if using SiteGround Optimizer)_ Optimize images, turn on lazy load, resize, compress & improve your
   Google Page Speed with the incredibly powerful and 100% free WordPress image smasher.
 
   Alternative: [_Imagify Image Optimizer_](https://wordpress.org/plugins/imagify/) by **WP Rocket**.
@@ -132,10 +132,12 @@ Inspired by:
 
 ### Social Media
 
-* [**Easy Social Share Buttons for WordPress**](https://socialsharingplugin.com):
+* [**Easy Social Share Buttons for WordPress**](https://socialsharingplugin.com) (Us 22):
   Easy Social Share Buttons for WordPress is the best social sharing plugin on the market, and the most complete and
   optimized social share buttons package. With a single plugin, the world of social media sharing is opened to
   you: increase your shares, grow your profile, build your following, get new subscribers and drive more traffic.
+
+  Alternatives: _[20+ Best WordPress Social Media Share Plugins](https://blog.hubspot.com/website/best-social-media-plugins-for-wordpress)_.
 
 
 
@@ -174,7 +176,7 @@ Inspired by:
 ### Performance
 
 * [**instant.page**](https://instant.page/):
-  _(Not necessary if using WP Rocket)_: Make your site’s pages instant in 1 minute and improve your conversion rate by
+  _(Not necessary if using WP Rocket)_ Make your site’s pages instant in 1 minute and improve your conversion rate by
   1%. Add this `Snippet` to WordPress using [Code Snippets](https://wordpress.org/plugins/code-snippets/) plugin.
 
   ```
@@ -184,16 +186,15 @@ Inspired by:
   ```
 
 * [**SiteGround Optimizer**](https://wordpress.org/plugins/sg-cachepress/):
-  _(Use only with Siteground hosting)_: This plugin is designed to link WordPress with the
+  _(Use only with Siteground hosting)_ This plugin is designed to link WordPress with the
   [**SiteGround**](http://bit.ly/AX-SuperHosting ) Performance services.
   - [Best SiteGround Optimizer Settings for 2021 (To Pass Core Web Vitals)](https://startblogging101.com/sg-optimizer-settings/).
   
   _Important:_ Verify that it is working via CPanel and if you use _WP Rocket_, disable _Home Optimization_ (HTML, JS & CSS).
 
 
-* [**WP Rocket**](https://wp-rocket.me/?ref=04c2ff82):
-  Make WordPress Load Fast in a Few Clicks. Recognized as the most powerful caching plugin by WordPress experts
-  (Us 39 per Year).
+* [**WP Rocket**](https://wp-rocket.me/?ref=04c2ff82) (Us 39 per Year):
+  Make WordPress Load Fast in a Few Clicks. Recognized as the most powerful caching plugin by WordPress experts.
   - [The Ideal WP Rocket Settings (2021)](https://onlinemediamasters.com/wp-rocket-settings/).
   - [Page Speed Optimization for WordPress: 19 Performance Tips](https://wp-rocket.me/blog/guide-to-page-speed-optimization-for-wordpress/).
   - [How to Speed Up Your WordPress Site (Ultimate 2021 Guide)](https://kinsta.com/learn/speed-up-wordpress/).
@@ -207,7 +208,7 @@ Inspired by:
 
 ## CDN
 
-* [**Bunny.net**](https://bit.ly/AX-SuperCDN):
+* [**Bunny.net**](https://bit.ly/AX-SuperCDN) (Europe & North America $0.01 /GB):
   Go faster than the fastest with the next-generation CDN, edge storage, and optimization service. We make lightning
   fast performance at any scale easier than ever before.
   - [How to Set up BunnyCDN in WordPress](https://wpspeedmatters.com/bunnycdn-wordpress/#how-to-setup-bunnycdn-in-wordpress).
