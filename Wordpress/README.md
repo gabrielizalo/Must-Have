@@ -200,9 +200,7 @@ Inspired by:
   - [How to Speed Up Your WordPress Site (Ultimate 2021 Guide)](https://kinsta.com/learn/speed-up-wordpress/).
 
   Alternatives:
-  [_WP Super Cache_](https://wordpress.org/plugins/wp-super-cache/) (easier to set up)
-  or
-  [_W3 Total Cache_](https://wordpress.org/plugins/w3-total-cache/) (more options, but it is harder to configure).
+  [_7 Best WordPress Caching Plugins to Lower Page Load Time and Time to First Byte_](https://kinsta.com/blog/wordpress-caching-plugins/)].
 
 
 
