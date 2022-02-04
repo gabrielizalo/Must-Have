@@ -65,6 +65,9 @@ Inspired by:
 12. Test the site: Check all posts and pages, if you have a contact form test if it properly works, try the social
     buttons & all the other features you have on your site.
 13. Setup a Uptime Monitoring Service: Use the Free [Freshping by Freshworks](https://www.freshworks.com/website-monitoring/).
+14. Does the business have an office? Then:
+    - [Add it to Google Maps](https://maps.google.com/).
+    - [Add it to Google Business](https://business.google.com/).
 15. Do you want to get info about conversions, ads…? Then:
     - [Add Goals and Track Events with Google Analytics](https://www.wpbeginner.com/wp-tutorials/how-to-add-google-analytics-event-tracking-in-wordpress/).
     - [Add Facebook Pixel](https://www.facebook.com/business/learn/facebook-ads-pixel).
