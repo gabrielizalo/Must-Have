@@ -11,5 +11,8 @@
 * [**The Front-End Checklist**](https://frontendchecklist.io/):
   The Front-End Checklist Application is perfect for modern websites and meticulous developers!
 
+* [**How to set up a professional React project (including screencast)**](https://dev.to/profydev/how-to-set-up-a-professional-react-project-including-screencast-180f):
+  This article will guide you through the setup of a new application using the most popular React tech stack.
+
 * [**Starwars Planets**](https://github.com/gabrielizalo/starwars-planets):
   A simple project with all the Must-Have features I'd like to add to any React project.
