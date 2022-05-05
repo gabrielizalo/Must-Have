@@ -8,6 +8,9 @@
 * [**Keeping up with React Libraries**](https://maxrozen.com/keeping-up-with-react-libraries):
   In this (continually updated) article, Max Rozen will be adding libraries (excluding component libraries) worth talking about on a single page.
 
+* [**React Libraries for 2022**](https://www.robinwieruch.de/react-libraries/):
+  This article will give you guidance on how to choose libraries for building a React application.
+
 * [**The Front-End Checklist**](https://frontendchecklist.io/):
   The Front-End Checklist Application is perfect for modern websites and meticulous developers!
 
