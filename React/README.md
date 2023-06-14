@@ -21,5 +21,8 @@
 * [**The Front-End Checklist**](https://frontendchecklist.io/):
   The Front-End Checklist Application is perfect for modern websites and meticulous developers!
 
+* [**Performance Optimization Strategy in 2023**](https://paper.dropbox.com/doc/Performance-Optimization-Strategy-in-2023--B6O0OFpRc3I94YykbwQvLHG0Ag-qWcr7orx2cEWHpLqoLeTC):
+  The practical checklist that will help you tackle performance optimization in 2023 and reach your performance goals one step at a time.
+
 * [**Starwars Planets**](https://github.com/gabrielizalo/starwars-planets):
   A simple project with all the Must-Have features I'd like to add to any React project.
